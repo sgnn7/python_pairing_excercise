@@ -1,0 +1,2 @@
+class LogReader(object):
+    pass
